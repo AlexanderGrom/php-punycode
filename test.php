@@ -2,7 +2,7 @@
 
 require 'punycode.php';
 
-class PunycodeTests extends PHPUnit_Framework_TestCase
+class PunycodeTests extends \PHPUnit_Framework_TestCase
 {
     private $punycode = null;
 

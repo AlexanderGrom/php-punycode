@@ -1,9 +1,9 @@
 
-## PHP-Pynycode - Преобразует имена доменов в формат Punycode и обратно.
+## PHP-Pynycode - Преобразует имена доменов в формат Punycode и обратно. [![Build Status](https://travis-ci.org/AlexanderGrom/php-punycode.svg?branch=master)](https://travis-ci.org/AlexanderGrom/php-punycode)
 
 Основывается на спецификации [RFC 3492](http://tools.ietf.org/html/rfc3492)  (Punycode: A Bootstring encoding of Unicode for Internationalized Domain Names in Applications (IDNA)).
 
-Данная библиотека используется мною на сайте [DigHub.ru](http://dighub.ru) для преобразования интернациональных доменных имен в формат Punycode и обратно.
+Данная библиотека используется мной на сайте [DigHub.ru](http://dighub.ru) для преобразования интернациональных доменных имен в формат Punycode и обратно.
 
 ### Возможности
 
